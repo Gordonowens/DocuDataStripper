@@ -1,2 +1,1 @@
-# DocuDataStripper
-Program strips data from pdf and inserts into excel
+VimCrypt~01!ÅµùaÔªs]r—ÀfKXÖ

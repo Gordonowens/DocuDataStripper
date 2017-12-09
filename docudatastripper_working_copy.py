@@ -1,5 +1,5 @@
 #! python2
-
+#version2
 import re
 import csv
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
